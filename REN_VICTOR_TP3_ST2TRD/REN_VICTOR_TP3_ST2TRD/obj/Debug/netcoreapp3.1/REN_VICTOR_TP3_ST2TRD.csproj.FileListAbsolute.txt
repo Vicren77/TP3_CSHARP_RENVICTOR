@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\bin\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.exe
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\bin\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.deps.json
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\bin\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.runtimeconfig.json
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\bin\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.runtimeconfig.dev.json
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\bin\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.dll
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\bin\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.pdb
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.AssemblyInfo.cs
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.dll
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.pdb
+C:\Users\victo\source\repos\REN_VICTOR_TP3_ST2TRD\REN_VICTOR_TP3_ST2TRD\obj\Debug\netcoreapp3.1\REN_VICTOR_TP3_ST2TRD.genruntimeconfig.cache
